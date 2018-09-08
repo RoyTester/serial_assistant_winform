@@ -1,0 +1,39 @@
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\obj\Debug\串口助手.Form1.resources
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\obj\Debug\串口助手.exe
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\obj\Debug\串口助手.pdb
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\bin\Debug\串口助手.exe.config
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\bin\Debug\串口助手.exe
+C:\Users\zhong.rui\documents\visual studio 2017\Projects\串口助手\串口助手\bin\Debug\串口助手.pdb
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\bin\Debug\串口助手.exe.config
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\bin\Debug\串口助手.exe
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\bin\Debug\串口助手.pdb
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\obj\Debug\串口助手.Form1.resources
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\obj\Debug\串口助手.exe
+C:\Users\zhong.rui\Desktop\C#\串口助手\串口助手\obj\Debug\串口助手.pdb
+E:\临时\串口助手\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+E:\临时\串口助手\串口助手\obj\Debug\串口助手.Form1.resources
+E:\临时\串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+E:\临时\串口助手\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+E:\临时\串口助手\串口助手\obj\Debug\串口助手.exe
+E:\临时\串口助手\串口助手\obj\Debug\串口助手.pdb
+E:\临时\串口助手\串口助手\bin\Debug\串口助手.exe.config
+E:\临时\串口助手\串口助手\bin\Debug\串口助手.exe
+E:\临时\串口助手\串口助手\bin\Debug\串口助手.pdb
+D:\临时\串口助手\串口助手\bin\Debug\串口助手.exe.config
+D:\临时\串口助手\串口助手\obj\Debug\串口助手.exe
+D:\临时\串口助手\串口助手\obj\Debug\串口助手.pdb
+D:\临时\串口助手\串口助手\bin\Debug\串口助手.exe
+D:\临时\串口助手\串口助手\bin\Debug\串口助手.pdb
+D:\临时\串口助手\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+D:\临时\串口助手\串口助手\obj\Debug\串口助手.Form1.resources
+D:\临时\串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+D:\临时\串口助手\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+E:\Backup\U盘\临时\串口助手\串口助手\bin\Debug\串口助手.exe.config
+E:\Backup\U盘\临时\串口助手\串口助手\obj\Debug\串口助手.exe
+E:\Backup\U盘\临时\串口助手\串口助手\obj\Debug\串口助手.pdb
